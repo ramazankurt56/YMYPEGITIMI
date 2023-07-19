@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Degiskenler", "1-Degiskenler\01.Degiskenler.csproj", "{BC2A8A06-B800-4510-8F4C-75B2E81780E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Degiskenler", "1-Degiskenler\01.Degiskenler.csproj", "{BC2A8A06-B800-4510-8F4C-75B2E81780E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DegerTiplerVeReferansTipler", "02.DegerTiplerVeReferansTipler\02.DegerTiplerVeReferansTipler.csproj", "{745A1216-4992-4CA7-9DB4-C234CD4CBBA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DegerTiplerVeReferansTipler", "02.DegerTiplerVeReferansTipler\02.DegerTiplerVeReferansTipler.csproj", "{745A1216-4992-4CA7-9DB4-C234CD4CBBA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Operatorler", "03.Operatorler\03.Operatorler.csproj", "{96908DED-8064-4ABC-8333-4A5C00D426A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Operatorler", "03.Operatorler\03.Operatorler.csproj", "{96908DED-8064-4ABC-8333-4A5C00D426A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SartBlokları", "04.SartBlokları\04.SartBlokları.csproj", "{10C31402-7FF2-45B5-B985-95CA0D275242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SartBlokları", "04.SartBlokları\04.SartBlokları.csproj", "{10C31402-7FF2-45B5-B985-95CA0D275242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Listeler", "05.Listeler\05.Listeler.csproj", "{5137BBFD-CF6F-49EF-9F2C-96D8723DCAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Listeler", "05.Listeler\05.Listeler.csproj", "{5137BBFD-CF6F-49EF-9F2C-96D8723DCAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Donguler", "06.Donguler\06.Donguler.csproj", "{B216A302-023C-4BBF-A684-854B76CB4466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Donguler", "06.Donguler\06.Donguler.csproj", "{B216A302-023C-4BBF-A684-854B76CB4466}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NameShow", "07.NameShow\07.NameShow.csproj", "{BED9B55D-230B-4204-A340-1B8001DB911F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Game_Guess_the_number", "08.Game_Guess_the_number\08.Game_Guess_the_number.csproj", "{C192E83A-A221-436D-8898-FBBA5192F7FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.HataYonetimi", "09.HataYonetimi\09.HataYonetimi.csproj", "{45E52931-8455-4E22-8FCA-5BEC4257B59D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Metotlar", "Metotlar\10.Metotlar.csproj", "{5C94A8E6-7A31-4C0B-BCF0-5BD07E09BC63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ArabalarConsoleApp", "11.ArabalarConsoleApp\11.ArabalarConsoleApp.csproj", "{D737A13B-CA53-4535-B87E-9A29232BB748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{B216A302-023C-4BBF-A684-854B76CB4466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B216A302-023C-4BBF-A684-854B76CB4466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B216A302-023C-4BBF-A684-854B76CB4466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED9B55D-230B-4204-A340-1B8001DB911F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED9B55D-230B-4204-A340-1B8001DB911F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED9B55D-230B-4204-A340-1B8001DB911F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED9B55D-230B-4204-A340-1B8001DB911F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C192E83A-A221-436D-8898-FBBA5192F7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C192E83A-A221-436D-8898-FBBA5192F7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C192E83A-A221-436D-8898-FBBA5192F7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C192E83A-A221-436D-8898-FBBA5192F7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E52931-8455-4E22-8FCA-5BEC4257B59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E52931-8455-4E22-8FCA-5BEC4257B59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E52931-8455-4E22-8FCA-5BEC4257B59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E52931-8455-4E22-8FCA-5BEC4257B59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C94A8E6-7A31-4C0B-BCF0-5BD07E09BC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C94A8E6-7A31-4C0B-BCF0-5BD07E09BC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C94A8E6-7A31-4C0B-BCF0-5BD07E09BC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C94A8E6-7A31-4C0B-BCF0-5BD07E09BC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D737A13B-CA53-4535-B87E-9A29232BB748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D737A13B-CA53-4535-B87E-9A29232BB748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D737A13B-CA53-4535-B87E-9A29232BB748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D737A13B-CA53-4535-B87E-9A29232BB748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
